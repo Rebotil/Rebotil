@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software and Hardware
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Software,Robotics and Web Developers
-- 📫 How to reach me : https://www.gmail.com/mokotorta@gmail.com
+- 📫 How to reach me : https://mailto:mokotorta@gmail.com
 
 <!---
 Rebotil/Rebotil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
